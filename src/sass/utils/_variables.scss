@@ -1,0 +1,49 @@
+:root {
+  --gray-color: #d9d9d9;
+  --black-color: #000000;
+  --white-color: #fff;
+
+  --brand-color: #d41443;
+  --primary1-color: #ffb8ca;
+  --primary2-color: #f0d1a5;
+  --primary3-color: #c2e297;
+
+  --secondary1-color: #ffa5ba;
+  --secondary2-color: #fafafa;
+
+  --bg-color: #fff5f6;
+  --bg-color2: #e5e5e5;
+  --modal-color: #e17992;
+
+  --main-font: "DM Sans", sans-serif;
+  --second-font: "Titan One", sans-serif;
+  --max-width: 100%;
+
+}
+
+//screen breakpoints
+$mobile: 480px;
+$tablet: 768px; 
+$desktop: 1280px;
+
+  // CONTACTS
+
+  $header-base-color: #FFB8CA;
+  $header-circle-color: #FFA5BA;
+  $background-mobile-menu: #E17992;
+  $accent-color: #D41443;
+  $button-white-color: #FFFFFF;
+  $first-section-color: #E5E5E5;
+  $second-section-color: #FFF5F6;
+  $products-card-beige: #F0D1A5;
+  $products-card-green: #C2E297;
+  $primary-text-color: #907E82;
+  $secondary-text-color: #000000;
+  $background: #FAFAFA;
+  $border-footer-color: #E1E1E1;
+  $markers-reviews-color: #D9D9D9;
+  $background-reviews: #FAFAFA;
+  $primary-header-color: #FFA5BA;
+  
+  //fonts
+  $font-primary: 'DM Sans', sans-serif;
